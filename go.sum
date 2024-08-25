@@ -1,0 +1,10 @@
+github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9 h1:WtQjqEAV0EwbFVvp4ETs4XvRmdE0+r578aLTAnay80Y=
+github.com/GoesToEleven/dog v0.0.0-20230428023317-90bef1c76cb9/go.mod h1:bSJZIYrINAWfFsUPONiX6V8GGsCFquPtn5yE6DFvIkE=
+github.com/GoesToEleven/puppy v1.2.0 h1:oH8CmnGauWjv0RmtYu2saAwRaB6MOfx6L+SPZnWmBfk=
+github.com/GoesToEleven/puppy v1.2.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
+github.com/GoesToEleven/puppy v1.3.0 h1:6kvL9k6x8STNArAn3VVdQAye+5AOM3SbxV0uPdq5xn0=
+github.com/GoesToEleven/puppy v1.3.0/go.mod h1:WobEgPdFB6u5c9xLvtp3KOhVIdHaYYpH6pZVOcLq0+w=
+github.com/hismama/dog v0.0.0-20240821181821-9d56faa1680b h1:4Vzm6XaMiAvQ8d/7BOhsYPN4M9ITSzmWZ9Fk5P9/+NI=
+github.com/hismama/dog v0.0.0-20240821181821-9d56faa1680b/go.mod h1:yahVRi+9lu98ALRYKvhxWIh+9V7f/TnypHAx6woyaiE=
+github.com/hismama/puppy v1.1.0 h1:+veNQMAXg0mC3Mhng80YvPjDsugq78e/TIzv2tA4/Rg=
+github.com/hismama/puppy v1.1.0/go.mod h1:Zcmb+nqQRN7J82Oj4eKer+KoK5QI0KDKkibTnv0kWp0=
