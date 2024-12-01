@@ -5,6 +5,10 @@ import (
 	"math/rand/v2"
 )
 
+func init() {
+	fmt.Println("My program is initializing...")
+}
+
 func main() {
 	x := rand.IntN(251)
 	fmt.Printf("Name is 'x': %v \t %T\n", x, x)
